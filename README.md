@@ -2,7 +2,7 @@
 
 Greek backgammon-family game for the ZX Spectrum 48K, using NIRVANA+ multicolour display rendering and the ULA beeper for dice sounds.
 
-![ZX Spectrum Tavli](media/tavli.png)
+![ZX Spectrum Tavli](media/tavli.png)![ZX Spectrum Tavli](media/tavli2.png)
 
 **This repository includes only v61, the currently approved baseline.** Previous versions and experimental releases are not included.
 
