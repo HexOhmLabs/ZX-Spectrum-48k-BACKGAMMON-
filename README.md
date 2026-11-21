@@ -1,4 +1,4 @@
-# HexOhm ΤΑΒΛΙ 48K — v61
+# HexOhm ΤΑΒΛΙ 48K — v62 with Nirvana Multicolor system
 
 Greek backgammon-family game for the ZX Spectrum 48K, using NIRVANA+ multicolour display rendering and the ULA beeper for dice sounds.
 
